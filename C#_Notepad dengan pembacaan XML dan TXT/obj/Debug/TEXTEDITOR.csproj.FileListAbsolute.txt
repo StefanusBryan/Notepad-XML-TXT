@@ -1,0 +1,10 @@
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\TEXTEDITOR\bin\Debug\TEXTEDITOR.exe.config
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\TEXTEDITOR\bin\Debug\TEXTEDITOR.exe
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\TEXTEDITOR\bin\Debug\TEXTEDITOR.pdb
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\TEXTEDITOR\obj\Debug\TEXTEDITOR.csproj.AssemblyReference.cache
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\TEXTEDITOR\obj\Debug\TEXTEDITOR.Properties.Resources.resources
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\TEXTEDITOR\obj\Debug\TEXTEDITOR.csproj.GenerateResource.cache
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\TEXTEDITOR\obj\Debug\TEXTEDITOR.csproj.CoreCompileInputs.cache
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\TEXTEDITOR\obj\Debug\TEXTEDITOR.exe
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\TEXTEDITOR\obj\Debug\TEXTEDITOR.pdb
+D:\Visual Studio\PEMROGRAMAN TINGKAT 3 C#\TEXTEDITOR\obj\Debug\TEXTEDITOR.TEXTEDITOR.resources
